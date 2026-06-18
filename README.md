@@ -186,8 +186,3 @@ Pastimes/
 
 **Prepared as part of the Final Portfolio of Evidence (POE).**
 
----
-
-## License
-
-This project is intended for **educational purposes only**.
